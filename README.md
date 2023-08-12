@@ -66,7 +66,7 @@ The code performs the following steps:
 
 ## Results
 
-The logistic regression model achieved an accuracy of 80% on the test set. The confusion matrix provides insights into the model's performance, showing true positives, true negatives, false positives, and false negatives.
+The logistic regression model achieved an accuracy of 84% on the test set. The confusion matrix provides insights into the model's performance, showing true positives, true negatives, false positives, and false negatives.
 
 ## Contributing
 
